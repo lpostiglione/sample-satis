@@ -5,7 +5,6 @@
   "repositories": [
     { "type": "git", "url": "https://bitbucket.org/dlu/dluphpsettings.git" },
     { "type": "vcs", "url": "https://bitbucket.org/webvariants/deployer" },
-    { "type": "vcs", "url": "git://gitorious.org/htmlpurifier/mainline.git" },
     { "type": "pear", "url": "http://pear2.php.net/" },
     { "type": "package", 
       "package": {
@@ -21,7 +20,4 @@
     { "type": "vcs", "url": "https://github.com/magento-hackathon/composer-command-integrator.git" }
   ],
   "require-all": true,
-  "config": {
-    "secure-http": false
-  }
 }
