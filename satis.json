@@ -1,9 +1,8 @@
 {
   "name": "Sample Satis Index",
-  "homepage": "#",
+  "homepage": "http://example.com",
   "description": "Sample Satis index",
   "repositories": [
-    { "type": "svn", "url": "https://psx.googlecode.com/svn/" },
     { "type": "git", "url": "https://bitbucket.org/dlu/dluphpsettings.git" },
     { "type": "vcs", "url": "https://bitbucket.org/webvariants/deployer" },
     { "type": "vcs", "url": "git://gitorious.org/htmlpurifier/mainline.git" },
